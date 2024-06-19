@@ -75,7 +75,7 @@ fieldset.grupo .campo{
     text-shadow: none;
 }
 
-.campo input[type="text"],.campo input[type="password"], .campo input[type= "email"], .campo select{
+.campo input[type="text"],.campo input[type="password"], .campo input[type= "email"], .campo select {
     padding: 0.5em;
     border: 1px solid black;
     box-shadow: 2px 2px 2px rgb(70,68,68);
